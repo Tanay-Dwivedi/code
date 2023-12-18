@@ -1,6 +1,6 @@
-package question_1;
+package question_5;
 
-public class Main {
+public class QueueImplementation {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }

@@ -1,6 +1,6 @@
-package question_1;
+package question_2;
 
-public class Main {
+public class Fibonacci {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
